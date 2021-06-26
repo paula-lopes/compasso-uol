@@ -1,9 +1,6 @@
+import  Router  from "routes/Router";
 const App = () => {
-  return (
-    <>
-      <h1>Teste</h1>
-    </>
-  );
+  return <Router />;
 };
 
 export default App;
